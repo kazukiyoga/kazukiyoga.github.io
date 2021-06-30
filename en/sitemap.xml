@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kazukiyoga.github.io/en/</loc>
+    <loc>http://kazukiyoga.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://kazukiyoga.github.io/"
+                href="http://kazukiyoga.github.io/jp/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kazukiyoga.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://kazukiyoga.github.io/en/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
                 href="http://kazukiyoga.github.io/series/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://kazukiyoga.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://kazukiyoga.github.io/jp/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kazukiyoga.github.io/en/series/"
+                href="http://kazukiyoga.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://kazukiyoga.github.io/en/tags/</loc>
+    <loc>http://kazukiyoga.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://kazukiyoga.github.io/tags/"
+                href="http://kazukiyoga.github.io/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kazukiyoga.github.io/en/tags/"
+                href="http://kazukiyoga.github.io/"
                 />
   </url>
   
