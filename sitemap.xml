@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>http://kazukiyoga.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>http://kazukiyoga.github.io/blog/</loc>
+  </url>
   
-  <sitemap>
-    <loc>http://kazukiyoga.github.io/jp/sitemap.xml</loc>
-    
-      <lastmod>2020-07-25T02:04:06-05:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>http://kazukiyoga.github.io/series/</loc>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>http://kazukiyoga.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kazukiyoga.github.io/</loc>
+  </url>
+  
+</urlset>
